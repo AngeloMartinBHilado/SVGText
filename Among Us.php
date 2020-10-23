@@ -6,7 +6,7 @@
 	<bodY>
 	
 	<svg viewBox="0 0 500 500" style="border: green solid;">
-		
+	<--!	
 		<path Stroke="green" stroke-width=".2" d="M10 0 V400"/>
 		<path Stroke="green" stroke-width=".2" d="M20 0 V400"/>
 		<path Stroke="green" stroke-width=".2" d="M30 0 V400"/>
@@ -79,7 +79,7 @@
 		<path Stroke="green" stroke-width=".2" d="M0 380 H300"/>
 		<path Stroke="green" stroke-width=".2" d="M0 390 H300"/>
 		<path Stroke="green" stroke-width=".2" d="M0 400 H300"/>
-		
+		-->
 	
 	
  <path id="curve" d="M110 60 Q80 110, 125,350 v120"/>
